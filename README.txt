@@ -1,1 +1,1 @@
-This repo is to upload Labs and Homework for CompBio
+This repo is to document uploads of Labs and Homework of Sean McBride for EBIO4420.

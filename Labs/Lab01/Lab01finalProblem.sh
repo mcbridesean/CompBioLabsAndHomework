@@ -1,1 +1,1 @@
-head -n 1 PredPreyData.csv > PredPreyDataLab02.csv | cut -f 2-4 -d , PredPreyData.csv | tail PredPreyData.csv >> PredPreyDataLab02.csv
+head -n 1 PredPreyData.csv > Lab01finalProblem.csv | cut -f 2-4 -d , PredPreyData.csv | tail PredPreyData.csv >> Lab01finalProblem.csv
